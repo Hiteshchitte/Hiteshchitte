@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hiteshchitte
+- 👋 Hi, I’m Hitesh Chitte
 - 👀 I’m interested in Data Science and Data Analytics 
-- 🌱 I’m currently pursuing Data Science and Analytics course at University of Mussouri - Columbia  
+- 🌱 I’m a Graduate of Data Science and Analytics course at the University of Mussouri-Columbia  
 - 📫 How to reach me -- Email:- hitesh.chitte@gmail.com
 
 <!---
